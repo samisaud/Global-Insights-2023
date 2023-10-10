@@ -4,6 +4,7 @@
 
 This repository contains a Tableau dashboard visualizing various metrics of countries in the year 2023. The dashboard dives deep into relationships between economic prosperity, health, urbanization, and environmental impact.
 
+![Dashboard 1](https://github.com/samisaud/Global-Insights-2023/assets/64744026/267200e0-9973-4e36-aed5-9718426ed506)
 
 
 ## Data Source
