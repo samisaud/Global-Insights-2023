@@ -1,0 +1,13 @@
+title: Sami Saud # your name (or website title) here
+logo: "/images/logo.JPG?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  A curious explorer in the world of data science!
+  <br><br>
+  I specialize in crafting ML models, diving deep into Python code, and bringing data to life. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/samisaud/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
